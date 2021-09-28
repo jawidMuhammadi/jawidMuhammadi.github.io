@@ -1,4 +1,3 @@
 # My Portfolie
 
-This repo oncludes my portfolie
-T
+This repo includes my Resume and Portfolio
